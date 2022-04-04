@@ -1,7 +1,7 @@
 # Site settings
 title: Jari Oksanen's CV 
 description: Oksanen's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/bp_kuva_2020.jpg
 baseurl: https://jarioksanen.github.io/resumecard
 url: https://jarioksanen.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -18,7 +18,7 @@ author:
   title: Kaizen & Transformation Leader
   address: Kauniaistenkatu 9 A, 24240 SALO
   email: j.oksanen@icloud.com
-  link: http://ddbullfrog.com
+  link: 
   weibo:
   github: jarioksanen
   linkedin: linkedin.com/in/jari-johannes-oksanen
@@ -27,45 +27,45 @@ author:
   stackoverflow:
 #  stackoverflow: 
   workHistory:
-    - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+    - work1: XXX Ltd
+      company: 
+      location: 
+      title: 
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
       company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      location: 
+      title: 
       started: 2012
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
       company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      location: 
+      title: 
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
       organization: XXXXXX University
-      location: Shenyang, China
+      location: 
       degree: Bachelor
-      major: Software Engineering
+      major: 
       started: 2005
       duration: (2005 - 2009)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Finnish
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Swedish
       proficiency: Limit
   programmingSkills:
     - skill1:
@@ -76,10 +76,13 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 90%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: React
+      percentage: 90%
     - skill5:
       name: Java/Java EE
-      percentage: 90%
+      percentage: 50%
+    - skill6:
+      name: Python
+      percentage: 50%

@@ -1,11 +1,11 @@
 # Site settings
 title: Jari Oksanen's CV 
-description: Oksanen's CV
+description: Jari Oksanen's CV 
 favicon: /assets/img/bp_kuva_2020.jpg
-baseurl: https://jarioksanen.github.io/resumecard
+baseurl: 
 url: https://jarioksanen.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+# rss_url: /pages/atom.xml
+# google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -16,14 +16,14 @@ exclude: [vendor]
 author:
   name: Jari Oksanen
   title: Kaizen & Transformation Leader
-  address: Kauniaistenkatu 9 A, 24240 SALO
+  address: Kauniaistenkatu 9 A, 24240 Salo, FINLAND
   email: j.oksanen@icloud.com
   link: 
   weibo:
   github: jarioksanen
   linkedin: linkedin.com/in/jari-johannes-oksanen
-  twitter: 
-  gavatar: /resumecard/assets/img/avatar.JPG
+  twitter: oksanen_jari
+  gavatar: /resumecard/assets/img/bp_kuva_2020.jpg
   stackoverflow:
 #  stackoverflow: 
   workHistory:
@@ -85,4 +85,4 @@ author:
       percentage: 50%
     - skill6:
       name: Python
-      percentage: 50%
+      percentage: 70%

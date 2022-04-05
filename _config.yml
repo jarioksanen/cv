@@ -2,7 +2,7 @@
 title: Jari Oksanen's CV 
 description: Jari Oksanen's CV 
 favicon: /assets/img/bp_kuva_2020.jpg
-baseurl: /
+baseurl: 
 url: https://jarioksanen.github.io/resumecard
 # rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1

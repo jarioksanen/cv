@@ -2,10 +2,14 @@
 title: Jari Oksanen's CV 
 description: Jari Oksanen's CV 
 favicon: /assets/img/bp_kuva_2020.jpg
-baseurl: 
+baseurl: /
 url: https://jarioksanen.github.io/resumecard
 # rss_url: /pages/atom.xml
-# google_analytics: UA-63653234-1
+google_analytics: UA-63653234-1
+
+# Sitemap for serach engines
+plugins:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
@@ -18,8 +22,8 @@ author:
   title: Kaizen & Transformation Leader
   address: Kauniaistenkatu 9 A, 24240 Salo, FINLAND
   email: j.oksanen@icloud.com
-  link: 
-  weibo:
+  # link: 
+  # weibo:
   github: jarioksanen
   linkedin: linkedin.com/in/jari-johannes-oksanen
   twitter: oksanen_jari

@@ -1,8 +1,8 @@
 <div class="header">
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="col-sm-1" >
-                <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar" width="auto">
+            <div class="col-xs-12 col-md-1" >
+                <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar" class="flex-column">
             </div>
             <div class="col-sm-3">
                 <h4>{{ site.author.name }}</h4>
@@ -11,12 +11,12 @@
                 <p><i class="fa fa-envelope-o fa-fw"></i><a href="mailto:{{ site.author.email }}"> {{ site.author.email }} </a></p>
                 <div class="clearfix"></div>
             </div>
-            <div class="col-sm-4 visible-md-block visible-lg-block visible-sm-block">
+            <div class="col-sm-4">
                 <p id="bypassme"><i class="fa fa-github fa-fw"></i><a href="//github.com/{{ site.author.github }}" target="_blank">  @{{ site.author.github }} </a></p>
                 <p id="bypassme"><i class="fa fa-linkedin-square fa-fw"></i> <a href="//linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
                 <p id="bypassme"><i class="fa fa-twitter fa-fw"></i> <a href="//twitter.com/{{ site.author.twitter }}" target="_blank">  @{{ site.author.twitter }} </a></p>
             </div>
-            <div class="col-sm-4 visible-md-block visible-lg-block">
+            <div class="col-sm-4 visible-md-block visible-lg-block visible-xl-block">
                 <a href="javascript:generatePDF()" class="btn btn-dark"><i class="icon-file icon-white"></i> Download to PDF </a>   
             </div>
         </div>

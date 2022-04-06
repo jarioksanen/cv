@@ -1,6 +1,6 @@
 _site
 .sass-cache
 .idea
-resumecard.iml
+cv.iml
 /*.iml
 Gemfile.lock

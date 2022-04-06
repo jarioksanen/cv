@@ -29,7 +29,7 @@ author:
   gavatar: /cv/assets/img/bp_kuva_2020.jpg
   workHistory:
     - work1: 
-      company: Kyndryl Inc. 
+      company: Kyndryl Inc.
       location: Helsinki
       title: Kaizen & Transformation Leader
       started: 2021
@@ -105,10 +105,10 @@ author:
       description: "My work duties included administration of approximately 20 different systems and application within Nokia information systems environment. The systems and applications category included administration of Windows Active Directory, Unix Solaris, Lotus Notes Administrator, SAP, RSA Ace admin, PGP keys, Windows NT disk access rights, end user person information, etc. As the specialist biggest portion of the work was direct administration of user accounts and access rights in the back end systems. Daily tasks were executed in co-operation with customers, peers and other support function teams within the organization of Nokia Business Infrastructure. My support area was mainly Europe and Africa regions and customer count about 30 000 end users in total."
   educationHistory:
     - education1:
-      organization: Turku Polytechnic
+      organization: Turku University of Applied Sciences
       location: Salo
       degree: Bachelor
-      major: Information Technology, Business Information Systems Management
+      major: Engineering, Information and Communications Technology
       started: 2012
       duration: (2012 - 2015)
       description: 

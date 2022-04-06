@@ -3,7 +3,7 @@ title: Jari Oksanen's CV
 description: Jari Oksanen's CV 
 favicon: /assets/img/bp_kuva_2020.jpg
 baseurl: 
-url: https://jarioksanen.github.io/resumecard
+url: https://jarioksanen.github.io/cv
 google_analytics: UA-63653234-1
 
 # Sitemap for serach engines
@@ -27,39 +27,91 @@ author:
   linkedin: jari-johannes-oksanen
   twitter: oksanen_jari
   gavatar: /resumecard/assets/img/bp_kuva_2020.jpg
-  # stackoverflow:
-#  stackoverflow: 
   workHistory:
-    - work1: XXX Ltd
-      company: 
-      location: 
-      title: 
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work1: 
+      company: Kyndryl Inc. 
+      location: Helsinki
+      title: Kaizen & Transformation Leader
+      started: 2021
+      duration: (2021 - Present)
+      description: This role supports organizational and cultural transformation by working with internal and external clients to drive process excellence and identify opportunities for improvement. People in this role need to understand the needs and the environment of the organization as well as current processes, process results and process maturity. They lead, perform and coach efforts targeted at improving operational aspects of a given value stream or process such as quality, cost, cycle time and overall performance. Work activities include identification of best practices, factors contributing to performance gaps, areas for change, and process success measurement criteria. Focus is placed on continuous incremental and breakthrough process improvement using a fundamental set of principles and consistent application of the scientific methodology. They may apply a variety of tools and techniques such as Business Process Management (BPM), Lean, Lean Six Sigma, Agile and Design for Operational eXcellence (DOX) and provide instruction and guidance to others in effective use of these approaches.
     - work2:
-      company: XXX Ltd
-      location: 
-      title: 
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IBM Corp.
+      location: Helsinki
+      title: Tactical Kaizen Leader for EMEA
+      started: 2020
+      duration: (2020 - 2021)
+      description: This role supports organizational and cultural transformation by working with internal and external clients to drive process excellence and identify opportunities for improvement. People in this role need to understand the needs and the environment of the organization as well as current processes, process results and process maturity. They lead, perform and coach efforts targeted at improving operational aspects of a given value stream or process such as quality, cost, cycle time and overall performance. Work activities include identification of best practices, factors contributing to performance gaps, areas for change, and process success measurement criteria. Focus is placed on continuous incremental and breakthrough process improvement using a fundamental set of principles and consistent application of the scientific methodology. They may apply a variety of tools and techniques such as Business Process Management (BPM), Lean, Lean Six Sigma, Agile and Design for Operational eXcellence (DOX) and provide instruction and guidance to others in effective use of these approaches.
     - work3:
-      company: XXX Ltd
-      location: 
-      title: 
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IBM Corp.
+      location: Helsinki
+      title: E2E Cross market Support EMEA
+      started: 2018
+      duration: (2018 - 2021)
+      description: "Support all AM Europe Squads by transforming and optimizing delivery of European AM services<br>
+      - Automation, Simplification, Reporting, Standardization<br>
+      - Geo specific Projects & Initiatives<br>
+      - Working with owners to improve policies, processes and tools to optimize delivery the customers in Europe<br>
+      - Ensuring delivered E2E services at all times are relevant for the customers in Europe"
+    - work4:
+      company: IBM Corp.
+      location: Helsinki
+      title: EMEA IT Logistics Service Line Owner
+      started: 2014
+      duration: (2014 - 2018)
+      description: "Overall delivery lead for Asset Management Logistics service line in Europe<br>
+      - Cost effectiveness of services<br>
+      - Quality and continuous improvement of services<br>
+      <br>
+      Drives European consistency of AM Logistics service line<br>
+      - Service definitions<br>
+      - Organizational structure<br>
+      - Operational processes<br>
+      - Tools"
+    - work5:
+      company: IBM Corp.
+      location: Helsinki
+      title: Nordic HW AM & IT Logistics Process Owner
+      started: 2011
+      duration: (2011 - 2014)
+      description: "Top Level Responsibilities:<br>
+      - Acts as process advisor to AM-team and secure/maintain effective processes and working instructions within the responsibility area<br>
+      - Establishes and maintains good and effective relationship & team work across competencies and within accounts and Asset Management team<br>
+      - Ensures and maintains a high control posture through efficient execution in line with Asset Mgmt Best Practice processes and control points.<br>
+      - Works actively to support IT-Delivery strategies including Globalization efforts and continued focus on cost effectiveness.<br>
+      - Proactively supports deployment of Asset Mgmt project Milestones, compliance and/or process optimization programs."
+    - work6:
+      company: IBM Corp.
+      location: Helsinki
+      title: HW and SW Asset Management SME
+      started: 2004
+      duration: (2004 - 2011)
+      description: "Responsibilities:<br>
+      - Defines and maintains Asset Management strategy and supporting policies<br>
+      - Develops and maintains Asset Management financial and control plan<br>
+      - Provides the primary interface to the customer for any Asset Management matters."
+    - work7:
+      company: Nokia Corp.
+      location: Salo
+      title: Team Leader User Access Management
+      started: 2001
+      duration: (2001 - 2004)
+      description: "The work duties as Team Leader of User Account Management team included developing and supporting agreed service levels of user accounts and access rights administration in about 20 different systems and applications within Nokia Information systems environment. The systems and applications category included administration of e.g. Windows Active Directory, Unix Solaris, Lotus Notes Administrator, SAP, RSA Ace admin, PGP keys, Windows NT disk access rights, end user person information, etc.). The duties as the team manager included both operational and employee performance management. I had a responsibility to plan the work shifts, work assignments, teaming, recruitment, arranging employee development discussions, training, mentoring and all the other tasks typical for the team manager. One significant part of my work duties was also representation of the UAM team for different kind of internal development projects and work orders started by Nokia project managers. Usually my role in the projects has been a consultant, whose target is sharing the knowledge of user accounts and access rights management. In addition to collect required information of the projects and deliver it to the own team."
+      company: Nokia Corp.
+      location: Salo
+      title: Service Desk Specialist
+      started: 1999
+      duration: (1999 - 2001)
+      description: "My work duties included administration of approximately 20 different systems and application within Nokia information systems environment. The systems and applications category included administration of Windows Active Directory, Unix Solaris, Lotus Notes Administrator, SAP, RSA Ace admin, PGP keys, Windows NT disk access rights, end user person information, etc. As the specialist biggest portion of the work was direct administration of user accounts and access rights in the back end systems. Daily tasks were executed in co-operation with customers, peers and other support function teams within the organization of Nokia Business Infrastructure. My support area was mainly Europe and Africa regions and customer count about 30 000 end users in total."
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: 
+      organization: Turku Polytechnic
+      location: Salo
       degree: Bachelor
-      major: 
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Information Technology, Business Information Systems Management
+      started: 2012
+      duration: (2012 - 2015)
+      description: 
   languages:
     - language1:
       name: Finnish
@@ -69,23 +121,93 @@ author:
       proficiency: Professional
     - language3:
       name: Swedish
-      proficiency: Limit
+      proficiency: Limited
+  certificates:
+    - certificate:
+      name: Azure Fundamentals
+      IssuedBy: Microsoft
+    - certificate:
+      name: Azure Data Fundamentals
+      IssuedBy: Microsoft
+    - certificate:
+      name: Big Data Foundations - Level 2 (V2)
+      IssuedBy: IBM
+      name: Blue Prism Certified Developer
+      IssuedBy: Blue Prism
+    - certificate:
+      name: Certified Software Asset Management Professional
+      IssuedBy: BSA | The Software Alliance
+    - certificate:
+      name: Data Science Foundations - Level 2 (V2)
+      IssuedBy: IBM
+    - certificate:
+      name: Enterprise Design Thinking pratitioner
+      IssuedBy: IBM
+    - certificate:
+      name: IBM Consultant
+      IssuedBy: IBM
+    - certificate:
+      name: Scrum Foundation Professional Certificate
+      IssuedBy: CertiProf
+  itSkills:
+    - skill:
+      name: Azure
+      percentage: 70%
+    - skill:
+      name: Blockchain
+      percentage: 70%
+    - skill:
+      name: Change Management
+      percentage: 80%
+    - skill:
+      name: Cloud
+      percentage: 70%
+    - skill:
+      name: Data Analytics
+      percentage: 80%
+    - skill:
+      name: Incident Management
+      percentage: 80%
+    - skill:
+      name: IT Asset Management
+      percentage: 100%
+    - skill:
+      name: IT Operations
+      percentage: 90%
+    - skill:
+      name: IT Outsourcing
+      percentage: 90%
+    - skill:
+      name: Process Management
+      percentage: 90%
+    - skill:
+      name: Supply Chain Management
+      percentage: 80%
   programmingSkills:
     - skill1:
+      name: CSS
+      percentage: 90%
+    - skill2:
       name: HTML
       percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 90%
-    - skill4:
-      name: React
-      percentage: 90%
-    - skill5:
       name: Java/Java EE
-      percentage: 50%
+      percentage: 60%
+    - skill4:
+      name: JavaScript
+      percentage: 80%
+    - skill5:
+      name: Node.js
+      percentage: 70%
     - skill6:
       name: Python
-      percentage: 70%
+      percentage: 80%
+    - skill7:
+      name: React
+      percentage: 90%
+    - skill8:
+      name: RPA
+      percentage: 90%
+    - skill9:
+      name: SQL
+      percentage: 90%

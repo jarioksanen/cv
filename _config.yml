@@ -156,13 +156,13 @@ author:
       percentage: 80%
     - skill:
       name: Cloud
-      percentage: 60%
+      percentage: 50%
     - skill:
       name: Data Analytics
       percentage: 70%
     - skill:
       name: Incident Management
-      percentage: 70%
+      percentage: 60%
     - skill:
       name: IT Asset Management
       percentage: 90%

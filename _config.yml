@@ -178,28 +178,31 @@ author:
   programmingSkills:
     - skill1:
       name: CSS
-      percentage: 80%
+      percentage: 60%
     - skill2:
       name: HTML
-      percentage: 80%
+      percentage: 70%
     - skill3:
       name: Java/Java EE
       percentage: 60%
     - skill4:
       name: JavaScript
-      percentage: 70%
+      percentage: 60%
     - skill5:
       name: Node.js
       percentage: 60%
     - skill6:
-      name: Python
-      percentage: 70%
+      name: Power Platform
+      percentage: 80%
     - skill7:
-      name: React
-      percentage: 70%
+      name: Python
+      percentage: 60%
     - skill8:
+      name: React
+      percentage: 60%
+    - skill9:
       name: RPA
       percentage: 80%
-    - skill9:
+    - skill10:
       name: SQL
-      percentage: 80%
+      percentage: 70%

@@ -146,8 +146,14 @@ author:
       IssuedBy: CertiProf
   itSkills:
     - skill:
+      name: Asset Management
+      percentage: 90%
+    - skill:
       name: Azure
       percentage: 60%
+    - skill:
+      name: AWS
+      percentage: 50%
     - skill:
       name: Blockchain
       percentage: 60%
@@ -155,7 +161,7 @@ author:
       name: Change Management
       percentage: 80%
     - skill:
-      name: Cloud
+      name: Cloud Integration
       percentage: 50%
     - skill:
       name: Data Analytics
@@ -163,11 +169,11 @@ author:
     - skill:
       name: Incident Management
       percentage: 60%
-    - skill:
-      name: IT Asset Management
+    - skill: 
+      name: Logistics
       percentage: 90%
     - skill:
-      name: IT Operations
+      name: Operations
       percentage: 70%
     - skill:
       name: Process Management
@@ -175,34 +181,40 @@ author:
     - skill:
       name: Supply Chain Management
       percentage: 80%
+    - skill:
+      name: Systems Integration (API)
+      percentage: 50%
   programmingSkills:
-    - skill1:
+    - skill:
       name: CSS
       percentage: 60%
-    - skill2:
+    - skill:
       name: HTML
       percentage: 70%
-    - skill3:
+    - skill:
+      name: Django
+      percentage: 50%
+    - skill:
       name: Java/Java EE
       percentage: 60%
-    - skill4:
+    - skill:
       name: JavaScript
       percentage: 60%
-    - skill5:
+    - skill:
       name: Node.js
       percentage: 60%
-    - skill6:
+    - skill:
       name: Power Platform
       percentage: 80%
-    - skill7:
+    - skill:
       name: Python
       percentage: 60%
-    - skill8:
+    - skill:
       name: React
       percentage: 60%
-    - skill9:
+    - skill:
       name: RPA
       percentage: 80%
-    - skill10:
+    - skill:
       name: SQL
       percentage: 70%
